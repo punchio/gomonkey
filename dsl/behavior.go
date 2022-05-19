@@ -1,6 +1,6 @@
 package dsl
 
-import . "github.com/agiledragon/gomonkey/v2"
+import . "github.com/punchio/gomonkey/v2"
 
 type Behavior interface {
 	Apply() []Params
