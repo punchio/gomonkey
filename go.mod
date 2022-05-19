@@ -1,4 +1,4 @@
-module github.com/punchio/gomonkey/v2
+module github.com/punchio/gomonkey
 
 go 1.14
 

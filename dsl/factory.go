@@ -1,6 +1,6 @@
 package dsl
 
-import . "github.com/punchio/gomonkey/v2"
+import . "github.com/punchio/gomonkey"
 
 func Any() Constraint {
 	return &AnyConstraint{}

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"reflect"
 
-	. "github.com/punchio/gomonkey/v2"
+	. "github.com/punchio/gomonkey"
 )
 
 type FuncPara struct {
