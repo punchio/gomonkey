@@ -3,8 +3,8 @@ package test
 import (
 	"testing"
 
-	. "github.com/agiledragon/gomonkey/v2"
-	"github.com/agiledragon/gomonkey/v2/test/fake"
+	. "github.com/punchio/gomonkey"
+	"github.com/punchio/gomonkey/test/fake"
 	. "github.com/smartystreets/goconvey/convey"
 )
 
